@@ -42,7 +42,7 @@ O objetivo do projeto é demonstrar domínio do ecossistema React, incluindo:
 ### 1️⃣ **Clone o repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/beatlist.git
+git clone https://github.com/LucasBleyer/BeatList_Topicos_Programacao
 ```
 
 ### 2️⃣ **Acesse a pasta do projeto**
@@ -68,40 +68,6 @@ npm run dev
 ```
 http://localhost:5173
 ```
-
----
-
-## 📂 **Estrutura do Projeto**
-
-```
-📁 src
-│
-├── components/        # Componentes reutilizáveis
-├── pages/             # Páginas da aplicação
-├── store/             # Redux Toolkit (slices, store)
-├── styles/            # Estilos globais e presets
-├── hooks/             # Hooks customizados
-└── utils/             # Funções auxiliares
-```
-
----
-
-## 🎨 **Tema e Estilo**
-
-O BeatList utiliza um tema:
-
-* **Dark profundo (black/gray)**
-* **Acentos neon vermelho (#B22222)**
-* **Blur, glow e gradientes**
-* **UI inspirada no estilo Slasher/Horror Neon**
-
-Você encontrará presets personalizados em:
-
-```
-src/styles/theme
-```
-
----
 
 ## 🔒 **Autenticação**
 
