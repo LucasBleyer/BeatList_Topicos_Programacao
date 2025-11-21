@@ -23,7 +23,7 @@ const Sobre = () => {
                 <strong> Lucas Oliveira Bleyer</strong> como trabalho avaliativo da disciplina de 
                 <strong> Tópicos Especiais em Programação</strong> — 
                 <strong> 8º semestre</strong> de Ciência da Computação (IFSC Lages).
-                Orientação da docente <strong>Drª Lidiane Visintin</strong>.
+                Ministrada pela docente <strong>Drª Lidiane Visintin</strong>.
               </p>
             </section>
 

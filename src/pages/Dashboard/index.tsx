@@ -102,7 +102,7 @@ const Dashboard = () => {
         <div className="flex flex-col sm:flex-row justify-between items-center mb-10">
           <div>
             <h1 className="text-3xl font-bold tracking-tight text-emerald-300 drop-shadow-[0_0_8px_rgba(34,197,94,0.4)]">
-              Sua Dashboard
+              Comece criando suas playlists personalizadas!
             </h1>
 
             <p className="text-emerald-200/70 text-sm mt-1">
