@@ -1,6 +1,6 @@
-# 🎵 **BeatList – Gerenciador de Playlists Moderno**
+# **BeatList – Gerenciador de Playlists Moderno**
 
-## 🚀 **Sobre o Projeto**
+## **Sobre o Projeto**
 
 **BeatList** é uma aplicação web desenvolvida em **React + Redux Toolkit**, permitindo que usuários:
 
@@ -19,7 +19,7 @@ O objetivo do projeto é demonstrar domínio do ecossistema React, incluindo:
 
 ---
 
-## 🛠️ **Tecnologias Utilizadas**
+##  **Tecnologias Utilizadas**
 
 ### **Frontend**
 
@@ -37,39 +37,39 @@ O objetivo do projeto é demonstrar domínio do ecossistema React, incluindo:
 
 ---
 
-## 📦 **Instalação e Execução**
+##  **Instalação e Execução**
 
-### 1️⃣ **Clone o repositório**
+### 1 **Clone o repositório**
 
 ```bash
 git clone https://github.com/LucasBleyer/BeatList_Topicos_Programacao
 ```
 
-### 2️⃣ **Acesse a pasta do projeto**
+### 2 **Acesse a pasta do projeto**
 
 ```bash
 cd beatlist
 ```
 
-### 3️⃣ **Instale as dependências**
+### 3 **Instale as dependências**
 
 ```bash
 npm install
 ```
 
-### 4️⃣ **Execute o servidor de desenvolvimento**
+### 4 **Execute o servidor de desenvolvimento**
 
 ```bash
 npm run dev
 ```
 
-### 5️⃣ **Acesse no navegador**
+### 5 **Acesse no navegador**
 
 ```
 http://localhost:5173
 ```
 
-## 🔒 **Autenticação**
+##  **Autenticação**
 
 O sistema de login/registro inclui:
 
@@ -79,7 +79,7 @@ O sistema de login/registro inclui:
 
 ---
 
-## 📚 **Funcionalidades Principais**
+##  **Funcionalidades Principais**
 
 ✔ Criar playlists
 ✔ Excluir playlists
@@ -91,12 +91,12 @@ O sistema de login/registro inclui:
 
 ---
 
-## 👤 **Autor**
+##  **Autor**
 
 **Lucas Oliveira Bleyer**
 
 ---
 
-## 📜 **Licença**
-
+##  **Licença**
+MIT
 Este projeto é de uso livre para fins educacionais.
