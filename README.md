@@ -1,4 +1,6 @@
-# **BeatList – Gerenciador de Playlists Moderno**
+# **BeatList – Gerenciador de Playlists**
+
+<img width="1852" height="945" alt="image" src="https://github.com/user-attachments/assets/84382cb1-bc8d-4fc7-bbb2-edd98c799815" />
 
 ## **Sobre o Projeto**
 
